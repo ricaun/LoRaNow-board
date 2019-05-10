@@ -8902,7 +8902,7 @@ Standard A4 size frame in Landscape</description>
 </classes>
 <parts>
 <part name="J3" library="SparkFun-Connectors" deviceset="CONN_04" device="1X04_NO_SILK"/>
-<part name="Q1" library="User-Submitted" deviceset="MOSFET-PCHANNEL" device="SMD"/>
+<part name="Q1" library="User-Submitted" deviceset="MOSFET-PCHANNEL" device="SMD" value="P-MOSFET"/>
 <part name="R1" library="SparkFun-Resistors" deviceset="100KOHM" device="-0603-1/10W-1%" value="100k"/>
 <part name="ANTENNA" library="SparkFun-Connectors" deviceset="U.FL" device="U.FL_2A"/>
 <part name="D2" library="Seeed-Discrete" deviceset="D-ESD-2P" device="-CESD5V0D1" value="1N4148"/>
@@ -8922,7 +8922,7 @@ Standard A4 size frame in Landscape</description>
 <part name="R3" library="SparkFun-Resistors" deviceset="100KOHM" device="-0603-1/10W-1%" value="124k"/>
 <part name="GND6" library="SparkFun" deviceset="GND" device=""/>
 <part name="P+3" library="SparkFun" deviceset="3.3V" device="" value="VCC"/>
-<part name="RFM95" library="diy-modules" deviceset="WIRELESS-LORANOW-RFM95W" device="WIRELESS-LORANOW-RFM95W#SMD#2" value="LORANOW"/>
+<part name="RFM95" library="diy-modules" deviceset="WIRELESS-LORANOW-RFM95W" device="WIRELESS-LORANOW-RFM95W#SMD#2" value="RFM95"/>
 <part name="GND7" library="SparkFun" deviceset="GND" device=""/>
 <part name="P+5" library="SparkFun" deviceset="3.3V" device="" value="VCC"/>
 <part name="C6" library="SparkFun-Capacitors" deviceset="0.1UF" device="-0603-25V-5%" value="0.1uF"/>

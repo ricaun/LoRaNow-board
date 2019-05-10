@@ -8542,19 +8542,19 @@ Standard A4 size frame in Landscape</description>
 </class>
 </classes>
 <parts>
-<part name="M2" library="diy-modules" deviceset="ARDUINO-PRO-MINI-*#NP" device="2" value="PRO"/>
-<part name="C1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603K" package3d_urn="urn:adsk.eagle:package:23680/2"/>
+<part name="M2" library="diy-modules" deviceset="ARDUINO-PRO-MINI-*#NP" device="2" value="ARDUINO PRO MINI"/>
+<part name="C1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603K" package3d_urn="urn:adsk.eagle:package:23680/2" value="0.1uF"/>
 <part name="J1" library="SparkFun-Connectors" deviceset="CONN_12" device="NO_SILK"/>
 <part name="J2" library="SparkFun-Connectors" deviceset="CONN_12" device="NO_SILK"/>
 <part name="DIO1" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_NO-SILK" value="JUMPER DIO1"/>
 <part name="J3" library="SparkFun-Connectors" deviceset="CONN_04" device="1X04_NO_SILK"/>
 <part name="DIO2" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_NO-SILK" value="JUMPER DIO2"/>
 <part name="DRST" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_NO-SILK" value="JUMPER RST"/>
-<part name="Q1" library="User-Submitted" deviceset="MOSFET-PCHANNEL" device="SMD"/>
+<part name="Q1" library="User-Submitted" deviceset="MOSFET-PCHANNEL" device="SMD" value="P-MOSFET"/>
 <part name="R1" library="SparkFun-Resistors" deviceset="100KOHM" device="-0603-1/10W-1%" value="100k"/>
 <part name="J4" library="SparkFun-Connectors" deviceset="CONN_02" device="1X02_NO_SILK"/>
 <part name="DVCC" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NO" device="_NO-SILK" value="JUMPER VCC"/>
-<part name="RF" library="diy-modules" deviceset="WIRELESS-LORA-RFM95W-LORANOW" device="" value="LORANOW"/>
+<part name="RF" library="diy-modules" deviceset="WIRELESS-LORA-RFM95W-LORANOW" device="" value="RFM95"/>
 <part name="ANTENNA" library="SparkFun-Connectors" deviceset="U.FL" device="U.FL2"/>
 <part name="J6" library="SparkFun-Connectors" deviceset="CONN_02" device="SMALL_POKEHOME"/>
 <part name="J5" library="SparkFun-Connectors" deviceset="CONN_02" device="1X02_NO_SILK"/>
