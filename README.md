@@ -2,6 +2,8 @@
 
 LoRaNow Boards is a project with open source hardware using the Arduino (atmega328p) and LoRa Module (RFM95).
 
+This boards were designed to work with [LoRaNow Library][3].
+
 ## LoRaNow v0
 
 <a href="v0">
@@ -28,3 +30,4 @@ See news and other projects on my [blog][2]
 
 [1]: http://www.ricaun.com.br/#contact
 [2]: http://www.loranow.com
+[3]: https://github.com/ricaun/LoRaNow
