@@ -1,19 +1,8 @@
-# LoRaNow Board
+# LoRaNow v0
 
-LoRaNow Boards is a project with open source hardware using the Arduino (atmega328p) and LoRa Module (RFM95).
+LoRaNow Boards v0 is a PCB to help wiring between Arduino Mini and RFM95 LoRa module to work with 2 AA batteries.
 
-## LoRaNow v0
-
-<a href="v0">
-<img src="v0/img/LoRaNow_v0.png" alt="LoRaNow_v0" width="640px">
-</a>
-
-## LoRaNow v1
-
-<a href="v1">
-<img src="v1/img/LoRaNow_v1.png" alt="LoRaNow_v1" width="640px">
-</a>
-
+<img src="img/LoRaNow_v1.png" alt="LoRaNow_v1" width="640px">
 
 ## License
 
